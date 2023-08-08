@@ -254,7 +254,7 @@ $ tsc --noEmit app.ts
 
 上面命令只检查是否有编译错误，不会生成`app.js`。
 
-tsc 命令的更多参数，详见《tsc 编译器》一章。
+tsc 命令的更多参数，详见[《tsc 命令》](./tsc)一章。
 
 ### tsconfig.json
 
@@ -281,7 +281,7 @@ $ tsc file1.js file2.js --outFile dist/app.js
 $ tsc
 ```
 
-`tsconfig.json`的详细介绍，参见《tsconfig.json 配置文件》一章。
+`tsconfig.json`的详细介绍，参见[《tsconfig.json 文件》](./tsconfig.json)一章。
 
 ## ts-node 模块
 
